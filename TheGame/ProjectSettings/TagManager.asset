@@ -4,19 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ladder
-  - test
-  - Coins
-  - enemy
-  - Enemy
-  - turn
-  - enemy2
-  - enemy1
-  - enemy4
-  - enemy3
-  - Bar
-  - damage
-  - damage2
+  - Boundary
+  - Ball
   layers:
   - Default
   - TransparentFX
@@ -51,6 +40,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1983829755
+    locked: 0
+  - name: Boundaries
+    uniqueID: 4073476035
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

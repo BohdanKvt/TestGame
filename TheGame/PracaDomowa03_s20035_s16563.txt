@@ -1,0 +1,33 @@
+First Level:
+The Player Objective is to Find his way from the First door to the Second which are marked as 2 brown rectangles with the Player starting at One
+and attempting to reach the 2nd one.
+The Player has to collect a key which is a yellow key in the level to open the second door to be able to proceed to level 2 .
+The player has the main camera moving with him which contains text simulating player speech most importantly infortmation about if you have picked up the
+key .
+Also in the camera there are 2 white circles moving along with it as indicators of the lives of the player. When the lives run out you will have to restart
+the level.
+The are also boundary walls around this level some which have been set to reset the scene for a better start to avoid player falling infinitely or being 
+stuck.
+The Player has to avoid a cannon which has is shooting from one side as a static enemy if a ball touches the player he will lose a life and the scene will 
+reset.
+There is also another static obstacle which is lava marked as a red block at the lower part of the level which will also take a life when the player comes 
+in to contact with the block.
+There is a Ladder marked as a grey block which the player can use to move upwards or downwards .
+There are blue platforms made bouncy to assist the player reach platforms.
+There is a orange and purple and grey platforms which are there as platforms left for the Player to utilise to get through the level.
+
+For level 2:
+At the second level you gain abilities as dash to the left(Press Q), dash to the right(Press E), 
+Shooting left(Left Mouse Button) Shooting right(Right Mouse Button)
+Left Shift - to speed up
+A - moove left, D - moove right
+gain keys to get lvl, with each lvl you gain speed, it is needed 4 keys to get new lvl
+You can see all the information about your current lvl and speed 
+You can kill enemies, they are bad
+Enemies have 1 health, while Player has 2
+When you receive dmg from lava and enemies your character get red shape 
+Red trigger button in the end increase speed of enemy
+Climb ladder - Press W S
+
+
+
